@@ -14,4 +14,5 @@ this program is written in ## python 3
 ## Prospects
 
 1- wok with the *threads* for simultanous execution  
-2- graphic interface 
+2- graphic interface  
+3- time excution optimization
