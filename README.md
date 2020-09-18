@@ -9,3 +9,9 @@ this program is written in ## python 3
 3- execute all the cells   
 4- check again blabla.txt file and verify results   
 5- do it with other inputs ;)  ( do not forget the structure of the file :D)
+
+
+## Prospects
+
+1- wok with the *threads* for simultanous execution
+2- graphic interface 
