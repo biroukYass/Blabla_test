@@ -1,4 +1,5 @@
-this a sample filefin asma3in/rfin asma3in/r
-Result
-Result3 0 E0 1 N
-Result3 0 E0 1 N
+5 5
+1 2 N
+LFLFLFLFF
+3 3 E
+FFRFFRFRRF
